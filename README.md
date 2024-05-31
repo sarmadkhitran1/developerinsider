@@ -1,2 +1,0 @@
-# developerinsider
-testing associated domains
